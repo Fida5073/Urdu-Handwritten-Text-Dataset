@@ -1,2 +1,4 @@
 # Urdu-Handwritten-Text-Dataset
-A comprehensive Urdu handwritten dataset 
+For the development and evaluation of Urdu handwritten OCR, we present a comprehensive handwritten Urdu dataset. This dataset includes all Urdu characters, ligatures with variations, and numeric data. It features ligatures of up to five characters and can be used for handwritten character recognition and writer identification.
+The initial samples were taken in red to ensure integrity during noise removal, as noise is often black. The dataset includes digits, numbers, and parts of speech such as nouns, verbs, and pronouns in Urdu. To enhance diversity, additional samples were collected from students and professionals across various age groups and fields, involving 500 writers (both male and female).
+The dataset expanded from 48 unique text lines to 700, including over 6,000 handwritten text lines written in three styles: baseline, without baseline, and slanted. Each participant, trained beforehand, wrote 48 text lines on six labeled pages. This dataset captures maximum Urdu text variability based on character position and writing style, containing approximately 187,200 characters to date.
